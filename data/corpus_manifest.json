@@ -1,0 +1,31 @@
+{
+  "category": "cs.CL",
+  "date_range": {
+    "from": "latest available",
+    "to": "latest available"
+  },
+  "target_per_subtopic": 120,
+  "per_subtopic": {
+    "machine_translation": {
+      "query": "cat:cs.CL AND abs:machine AND abs:translation",
+      "collected": 120,
+      "retrieved_at": "2026-11-07T14:58:14.397323Z"
+    },
+    "question_answering": {
+      "query": "cat:cs.CL AND abs:question AND abs:answering",
+      "collected": 120,
+      "retrieved_at": "2026-11-07T14:58:20.580299Z"
+    },
+    "summarization": {
+      "query": "cat:cs.CL AND abs:summarization",
+      "collected": 120,
+      "retrieved_at": "2026-11-07T14:58:27.301976Z"
+    },
+    "dialogue_systems": {
+      "query": "cat:cs.CL AND abs:dialogue",
+      "collected": 120,
+      "retrieved_at": "2026-11-07T14:58:33.484381Z"
+    }
+  },
+  "total_papers": 480
+}

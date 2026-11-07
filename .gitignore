@@ -1,0 +1,13 @@
+data/*.pkl
+data/*.faiss
+data/*.npy
+data/corpus_raw.json
+data/documents.jsonl
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+report/*.pdf
+.DS_Store
