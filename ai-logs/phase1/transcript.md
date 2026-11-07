@@ -1,3 +1,5 @@
+**Link to full AI Chat Log:** [https://chat.deepseek.com/share/58lfgwb1ynbnpnkplx]
+
 # AI Assistant Transcript - Phase 1
 
 Below is a summary of the prompts and assistance provided by the AI assistant during the development of Phase 1.
