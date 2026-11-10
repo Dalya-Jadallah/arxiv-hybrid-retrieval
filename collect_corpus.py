@@ -1,5 +1,5 @@
 """
-Collect ~460 cs.CL papers across 4 sub-topics from arXiv.
+Collect 480 cs.CL papers across 4 sub-topics from arXiv.
 Saves corpus_raw.json and corpus_manifest.json for reproducibility.
 """
 import arxiv
